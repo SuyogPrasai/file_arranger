@@ -1,0 +1,83 @@
+{
+    "media": [
+        ".mp4",
+        ".mp3",
+        ".wav",
+        ".avi",
+        ".mov",
+        ".flv"
+    ],
+    "documents": [
+        ".doc",
+        ".docx",
+        ".pdf",
+        ".txt",
+        ".rtf",
+        ".odt"
+    ],
+    "images": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".bmp",
+        ".svg"
+    ],
+    "archives": [
+        ".zip",
+        ".rar",
+        ".tar",
+        ".gz",
+        ".7z"
+    ],
+    "spreadsheets": [
+        ".xls",
+        ".xlsx",
+        ".csv",
+        ".ods"
+    ],
+    "presentations": [
+        ".ppt",
+        ".pptx",
+        ".key",
+        ".odp"
+    ],
+    "executable": [
+        ".exe",
+        ".msi",
+        ".bat",
+        ".sh",
+        ".app"
+    ],
+    "programming": [
+        ".c",
+        ".cpp",
+        ".java",
+        ".py",
+        ".html",
+        ".css",
+        ".js",
+        ".php"
+    ],
+    "fonts": [
+        ".ttf",
+        ".otf",
+        ".woff",
+        ".woff2"
+    ],
+    "data": [
+        ".json",
+        ".xml",
+        ".csv",
+        ".sql"
+    ],
+    "ebooks": [
+        ".epub",
+        ".mobi",
+        ".azw",
+        ".pdf"
+    ],
+    "miscellaneous":[
+        
+    ]
+}
